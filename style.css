@@ -1,5 +1,6 @@
 h1 {
     font-family: "Libre Baskerville", serif;
+    font-size: 3rem;
     text-transform: uppercase;
 }
 
@@ -8,20 +9,15 @@ body {
     background-color: black;
 }
 
-#image1 {
+.image1 {
     border: solid #ffffff;
     border-width: 5px;
     margin: 1rem;
     width: 100%;
 }
 
-div {
+.motivational_poster {
     width: 50%;
     margin-left: 25%;
     text-align: center;
-}
-
-p {
-}
-* {
 }
